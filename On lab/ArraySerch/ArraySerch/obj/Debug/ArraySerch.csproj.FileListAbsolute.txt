@@ -1,0 +1,9 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\bin\Debug\ArraySerch.exe.config
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\bin\Debug\ArraySerch.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\bin\Debug\ArraySerch.pdb
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\obj\Debug\ArraySerch.csprojResolveAssemblyReference.cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\obj\Debug\ArraySerch.Form1.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\obj\Debug\ArraySerch.Properties.Resources.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\obj\Debug\ArraySerch.csproj.GenerateResource.Cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\obj\Debug\ArraySerch.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\ArraySerch\ArraySerch\obj\Debug\ArraySerch.pdb

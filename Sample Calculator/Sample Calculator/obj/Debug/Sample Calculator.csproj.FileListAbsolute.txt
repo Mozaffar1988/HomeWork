@@ -1,0 +1,8 @@
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.exe.config
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\obj\Debug\Sample_Calculator.simplecalculatorFormUI.resources
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\obj\Debug\Sample_Calculator.Properties.Resources.resources
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.exe
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\bin\Debug\Sample Calculator.pdb
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.exe
+D:\UIU\Basis Home Work\Sample Calculator\Sample Calculator\obj\Debug\Sample Calculator.pdb

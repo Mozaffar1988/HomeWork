@@ -1,0 +1,9 @@
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\bin\Debug\BonusCalculation.exe.config
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\bin\Debug\BonusCalculation.exe
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\bin\Debug\BonusCalculation.pdb
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.bonuscalcilatorUI.resources
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.Properties.Resources.resources
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.exe
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.pdb
+D:\UIU\Basis Home Work\BonusCalculation\BonusCalculation\obj\Debug\BonusCalculation.csprojResolveAssemblyReference.cache

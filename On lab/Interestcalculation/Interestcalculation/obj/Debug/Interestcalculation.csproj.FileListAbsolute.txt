@@ -1,0 +1,9 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\Interestcalculation\Interestcalculation\bin\Debug\Interestcalculation.exe.config
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\bin\Debug\Interestcalculation.exe
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\bin\Debug\Interestcalculation.pdb
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\obj\Debug\Interestcalculation.csprojResolveAssemblyReference.cache
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\obj\Debug\Interestcalculation.Form1.resources
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\obj\Debug\Interestcalculation.Properties.Resources.resources
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\obj\Debug\Interestcalculation.csproj.GenerateResource.Cache
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\obj\Debug\Interestcalculation.exe
+C:\Users\BITM-301-PC\Documents\Visual Studio 2013\Projects\Interestcalculation\Interestcalculation\obj\Debug\Interestcalculation.pdb

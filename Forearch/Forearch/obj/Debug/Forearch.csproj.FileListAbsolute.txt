@@ -1,0 +1,5 @@
+D:\UIU\Basis Home Work\Forearch\Forearch\bin\Debug\Forearch.exe.config
+D:\UIU\Basis Home Work\Forearch\Forearch\bin\Debug\Forearch.exe
+D:\UIU\Basis Home Work\Forearch\Forearch\bin\Debug\Forearch.pdb
+D:\UIU\Basis Home Work\Forearch\Forearch\obj\Debug\Forearch.exe
+D:\UIU\Basis Home Work\Forearch\Forearch\obj\Debug\Forearch.pdb

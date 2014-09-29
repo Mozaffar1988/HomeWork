@@ -1,0 +1,9 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\bin\Debug\NumberListbox.exe.config
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\bin\Debug\NumberListbox.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\bin\Debug\NumberListbox.pdb
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\obj\Debug\NumberListbox.csprojResolveAssemblyReference.cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\obj\Debug\NumberListbox.Form1.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\obj\Debug\NumberListbox.Properties.Resources.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\obj\Debug\NumberListbox.csproj.GenerateResource.Cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\obj\Debug\NumberListbox.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\NumberListbox\NumberListbox\obj\Debug\NumberListbox.pdb

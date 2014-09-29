@@ -1,0 +1,9 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\bin\Debug\appcation.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\bin\Debug\appcation.exe.config
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\obj\Debug\appcation.Form1.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\obj\Debug\appcation.Properties.Resources.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\obj\Debug\appcation.csproj.GenerateResource.Cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\obj\Debug\appcation.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\obj\Debug\appcation.pdb
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\bin\Debug\appcation.pdb
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\appcation\appcation\obj\Debug\appcation.csprojResolveAssemblyReference.cache

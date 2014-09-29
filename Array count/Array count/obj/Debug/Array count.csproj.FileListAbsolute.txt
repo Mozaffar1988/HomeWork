@@ -1,0 +1,8 @@
+D:\UIU\Basis Home Work\Array count\Array count\bin\Debug\Array count.exe.config
+D:\UIU\Basis Home Work\Array count\Array count\obj\Debug\Array_count.ArraylocationUiForm.resources
+D:\UIU\Basis Home Work\Array count\Array count\obj\Debug\Array_count.Properties.Resources.resources
+D:\UIU\Basis Home Work\Array count\Array count\obj\Debug\Array count.csproj.GenerateResource.Cache
+D:\UIU\Basis Home Work\Array count\Array count\bin\Debug\Array count.exe
+D:\UIU\Basis Home Work\Array count\Array count\bin\Debug\Array count.pdb
+D:\UIU\Basis Home Work\Array count\Array count\obj\Debug\Array count.exe
+D:\UIU\Basis Home Work\Array count\Array count\obj\Debug\Array count.pdb
